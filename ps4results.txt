@@ -1,0 +1,9 @@
+ERROR: To Many Operators
+ERROR: Not enough numbers
+Successful: Result is -12.91
+Successful: Result is 85.33
+ERROR: NULL pointer
+ERROR: NULL pointer
+Successful: Result is 373.25
+
+
